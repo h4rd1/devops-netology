@@ -29,6 +29,8 @@ See 'snap info docker' for additional versions.
     (Необязательная часть, *) По образцу предоставленного python кода внесите в него исправление для управления названием используемой таблицы через ENV переменную.
 
 Решение 1 
+
+
 ![{8568A810-63A1-488A-96A7-B15ED105CADC}](https://github.com/user-attachments/assets/ae37a3eb-ce61-4c25-abc5-82bf33ca41c2)
 
 
