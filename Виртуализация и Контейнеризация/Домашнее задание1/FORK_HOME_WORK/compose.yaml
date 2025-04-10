@@ -1,0 +1,27 @@
+include:
+  - proxy.yaml
+services:
+  db:
+    image: mysql:8
+    networks:
+      backend:
+        ipv4_address: 172.20.0.10
+    env_file:
+      ".env"
+    restart: on-failure
+
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile.python
+    environment:
+      - DB_HOST=db
+      - DB_USER=${MYSQL_USER}
+      - DB_PASSWORD=${MYSQL_PASSWORD}
+      - DB_NAME=${MYSQL_DATABASE}
+    networks:
+      backend:
+        ipv4_address: 172.20.0.5
+    ports:
+      - "5000:5000"
+    restart: on-failure
