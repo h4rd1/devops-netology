@@ -57,6 +57,11 @@ See 'snap info docker' for additional versions.
     Просканируйте образ на уязвимости.
     В качестве ответа приложите отчет сканирования.
 
+    
+
+![{484D234E-AC09-4285-B50B-FE3E8C67140E}](https://github.com/user-attachments/assets/06de62e4-05ac-4392-807c-75d2fa62fa75)
+
+
 Задача 3
 
     Изучите файл "proxy.yaml"
