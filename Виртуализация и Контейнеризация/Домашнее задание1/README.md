@@ -40,8 +40,7 @@ See 'snap info docker' for additional versions.
 Решение 1 
 
 
-![{8568A810-63A1-488A-96A7-B15ED105CADC}](https://github.com/user-attachments/assets/ae37a3eb-ce61-4c25-abc5-82bf33ca41c2)
-
+![{B15B6CE1-0D9E-4B00-8CE8-E1047DC63EC5}](https://github.com/user-attachments/assets/2c56862c-e513-4f6c-820b-bf28ea10a467)
 
 
 
