@@ -19,11 +19,8 @@ sudo apt  install docker-compose  # version 1.25.0-1
 See 'snap info docker' for additional versions.
 
 
-![{B6B5CD88-8625-426F-8682-4C9CF24945C2}](https://github.com/user-attachments/assets/bc65c162-9f94-4a2b-82b1-97013ef70be6)
+![{C6884C96-C61E-4A7C-BF02-802A1CCDBBF9}](https://github.com/user-attachments/assets/6981a179-29fe-42fa-802d-97885a055232)
 
-
-
-![{520ABD4B-3089-4093-B2AE-15717B72A0DB}](https://github.com/user-attachments/assets/deea88a4-e9a5-49e9-8247-8263441d2a67)
 
 
 
