@@ -22,6 +22,11 @@ See 'snap info docker' for additional versions.
 ![{B6B5CD88-8625-426F-8682-4C9CF24945C2}](https://github.com/user-attachments/assets/bc65c162-9f94-4a2b-82b1-97013ef70be6)
 
 
+
+![{520ABD4B-3089-4093-B2AE-15717B72A0DB}](https://github.com/user-attachments/assets/deea88a4-e9a5-49e9-8247-8263441d2a67)
+
+
+
 В случае наличия установленного в системе docker-compose - удалите его.
 2. Убедитесь что у вас УСТАНОВЛЕН docker compose(без тире) версии не менее v2.24.X, для это выполните команду docker compose version
 Своё решение к задачам оформите в вашем GitHub репозитории!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
