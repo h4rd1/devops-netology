@@ -75,9 +75,6 @@ See 'snap info docker' for additional versions.
 
     Остановите проект. В качестве ответа приложите скриншот sql-запроса.
 
-
-   ![{4A93B1D7-16F9-4005-A6A0-70CD54C88276}](https://github.com/user-attachments/assets/da7ec63e-7379-4c60-a829-a03937c2a8bc)
-
    
   ![{48908A30-5EE2-4A75-96E7-5FE7E5D55123}](https://github.com/user-attachments/assets/b934c232-a0a4-4c84-9c4a-aa82b3801c1a)
 
