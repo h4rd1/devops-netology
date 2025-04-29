@@ -1,0 +1,8 @@
+#cloud_config   # user-data = "${file("./meta.yml")}"
+users:
+  -  name: h4rd
+     groups: sudo
+     shell: /bin/bash
+     sudo: ['ALL=(ALL) NOPASSWD:ALL']
+     ssh-autorized-keys:
+       - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO0AqfVWjHod67nQH5OHrcnYhRS7cH3Bzops6LkoSzfn h4rd@redhat

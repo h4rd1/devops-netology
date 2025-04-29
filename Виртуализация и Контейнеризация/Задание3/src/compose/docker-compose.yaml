@@ -1,0 +1,11 @@
+version: "3.3"
+services:
+   registry:
+      image: registry
+      ports:
+         - "5000:5000"
+   portainer:
+      extends:
+        file: compose.yml
+        service: portainer
+
